@@ -1,6 +1,6 @@
 - 👋 My name is Fahim Hoq
-- 👀 I’m interested in Statistics, analyzing data, programming and telling stories
-- 🌱 I’m currently learning SQL, Python
+- 👀 I’m interested in Statistics, analyzing data, programming and telling stories with data.
+- 🌱 Programming languages:R, SQL, Python, JMP, SPSS, Excel VBA etc. 
 - 📫 You can reach me at fahimhoq96@gmail.com and [LinkedIn](https://www.linkedin.com/in/fahim-hoq)
 
 My hobbies include playing Chess, reading classical novels, watching sports etc.
